@@ -1,0 +1,104 @@
+<head>
+		<title>::: PENERIMAAN SISWA BARU :::</title>
+	</head>
+	<body bgcolor=#ffffcc>
+		<font size=1 Face=tahoma color=black>Selamat Datang</font>
+		<hr size=1 width=150 align=left>
+		<h1><center>MA VIP IQ NU Keterampilan Banyumas</h1>
+		<hr size=5 align=center noshade>
+<body>
+<hr><p><b><font face=rocwell size=4 color=black>
+
+<hr>
+| <a href=Homenida.html>H o m e</a> 
+| <a href=Visimisinida.html>Visi Misi</a> 
+| <a href=jurusannida.html>Jurusan</a> 
+| <a href=Gurunida.html>Guru</a>
+| <a href=PPDB.html>PPDB</a>
+
+<p>PENERIMAAN SISWA BARU MA VIP IQ NU Keterampilan Banyumas</p>
+		<h3>Data Siswa Baru</h3>
+		<form method=post>
+		<table border=0>
+		<tr>
+			<td  width=70>Nama</td>
+			<td  width=10>:</td>
+			<td  width=30><input type=text name=nama size=30></td>
+		</tr>
+		<tr>
+			<td  width=70>Alamat</td>
+			<td  width=10>:</td>
+			<td  width=30>
+				<input type=text value=Jl. name=alamat size=30></td>
+		</tr>
+		<tr>
+			<td  width=70>Asal Sekolah</td>
+			<td  width=10>:</td>
+			<td  width=30><input type=text nama=Asal Sekolah size=30></td>
+
+		<tr>
+			<td  width=70>No HP</td>
+			<td  width=10>:</td>
+			<td  width=30><input type=text name=No HP size=30></td>
+		</tr>
+		<tr>
+			<td  width=70>E-mail</td>
+			<td  width=10>:</td>
+			<td  width=30>
+				<input type=text name=E-mail size=30></td>
+		</tr>
+
+			</table>
+	</form>
+
+		<form method=post>
+		<h3>Daftar Program Keahlian MA VIP IQ NU keterampilan Banyumas</h3>
+		Pilih Program Keahlian Yang Anda Minati<br>
+		Jurusan : </h3>
+		<select name=jurusan>
+			<option value=IPA1 selected>IPA - Tahfidz</option>
+			<option value=IPA2>IPA - Non Tahfidz</option>
+			<option value=IPS1>IPS - Tahfidz</option>
+			<option value=IPS2>IPS - Non Tahfidz</option>
+					</select>
+</form>
+<form method=post>
+		
+		
+		<h3Ekstrakulikuler</h3>
+		Pilih Ekstrakurikuler Yang Anda Minati Maximal 3<br>
+
+		<p>
+		<input type=checkbox name=c1 checked>Tahfidz<br>
+		<input type=checkbox name=c2>Kitab Kuning<br>
+		<input type=checkbox name=c3>Komputer dan jaringan<br>
+		<input type=checkbox name=c4>Berkuda<br>
+		<input type=checkbox name=c5>Futsal<br>
+		<input type=checkbox name=c6>Volly<br>
+		<input type=checkbox name=c7>Basket<br>
+		<input type=checkbox name=c8>Hadroh<br>
+		<input type=checkbox name=c9>MTQ/QIRO<br>
+		<input type=checkbox name=c10>Dakwah/Khitobah<br>
+		<input type=checkbox name=c11>Desain Grafis<br>
+		<input type=checkbox name=c12>Bahasa<br>
+		<input type=checkbox name=c13>Pencak Silat Pagar Nusa<br>
+		<input type=checkbox name=c14>Panah<br>
+		<input type=checkbox name=c15>Berenang<br>
+</form>
+
+		<form method=post>
+		<h5>Isikan Pesan dan kesan</h5>
+		<textarea name=textbox1 rows=5 cols=40>Pesan Anda:
+		</textarea>
+		</form>
+<p> CS PPDB : Nida Hanifah ( 0895392729521 )</P>
+<p align=center>
+<input type=submit value=kirim name=b1>
+<input type=reset value=batal name=b2>
+<hr>
+
+
+<h3>Official MA VIP IQ NU Keterampilan Banyumas</h1>
+<p>&copy; 2024 Hak Cipta Dilindungi. Develop oleh <a href="https://referensi.data.kemdikbud.go.id/pendidikan/npsn/70024952">kemdikbud</a></p>
+</body>
+</html>

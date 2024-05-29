@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+
+<html>
+	<head>
+		<title>::: JURUSAN MA VIP IQ NU KETERAMPILAN BANYUMAS :::</title>
+	</head>
+<body>
+	<body bgcolor=#ffffcc>
+		<font size=1 Face=tahoma color=blue>Selamat Datang</font>
+		<hr size=1 width=150 align=left>
+		<h1><center>MA VIP IQ NU Keterampilan Banyumas</h1>
+		<hr size=5 align=center noshade>
+
+<MARQUEE WIDTH="100%" bg color=blue>JURUSAN di MA VIP IQ NU KETERAMPILAN BANYUMAS</MARQUEE>
+<font size=2 Face=tahoma color=black>
+<img src="siswa.JPG"hspace=10 vspace=5 width=700 height =300 
+			align="CENTER" border=2>
+<img src="siswaips.JPG" hspace=10 vspace=5 width=700 height =300 
+			align="left" border=2>
+
+<hr><p><b><font face=rocwell size=4 color=blue>
+| <a href=Homenida.html>H o m e</a> 
+| <a href=Visimisinida.html>Visi Misi</a> 
+| <a href=jurusannida.html>Jurusan</a> 
+| <a href=Gurunida.html>Guru</a>
+| <a href=PPDB.html>PPDB</a>
+<hr><p><font face=rocwell size=4 color=black>
+
+<h1>JURUSAN </h1>
+<p>Berikut beberapa jurusan di MA VIP IQ NU Keterampilan Banyumas</p>
+<hr size=5 align=center noshade>
+<img src="IPAPRAKTIK.JPG" hspace=10 vspace=10 width=500 height =500 
+			align="left" border=2>
+<img src="IPSPRAKTIK.JPEG" hspace=10 vspace=10 width=500 height =500 
+			align="left" border=2>
+
+<h3>IPA</h3>
+<p>Program studi IPA adalah program studi yang banyak diminati oleh anak anak yang menyukai bidang ilmu sains. Dalam dunia perkuliahan Jurusan Mipa juga tergolong jurusan yang mudah untuk mendaftar perkuliahn. Jurusan IPA ada dua type yaitu :
+<p>1. IPA-Tahfidz 
+<p>2. IPA-Non Tahfidz.</p>
+
+<hr size=5 align=center noshade>
+
+<h3>IPS</h3>
+
+<p>Program studi IPS didalamnya mencangkup pelajaran bidang ekonomi yang sangat cocok untuk anak yang mempunyai keahlian di bidang ekonomi.Jurusan IPS ada dua type yaitu :
+<p>1. IPS-Tahfidz 
+<p>2. IPS-Non Tahfidz.</p>
+
+<hr size=5 align=center noshade>
+
+<h3>Official MA VIP IQ NU Keterampilan Banyumas</h1>
+<p>&copy; 2024 Hak Cipta Dilindungi. Develop oleh <a href="https://referensi.data.kemdikbud.go.id/pendidikan/npsn/70024952">kemdikbud</a></p>
+</body>
+</html>
+

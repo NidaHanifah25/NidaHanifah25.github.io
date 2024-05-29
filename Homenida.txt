@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+
+
+<html>
+	<head>
+		<title>::: MA VIP IQ NU KETERAMPILAN BANYUMAS :::</title>
+	</head>
+<body>
+	<body bgcolor=#ffffcc>
+		<font size=1 Face=tahoma color=blue>Selamat Datang</font>
+		<hr size=1 width=150 align=left>
+		<h1><center>MA VIP IQ NU Keterampilan Banyumas</h1>
+		<hr size=5 align=center noshade>
+
+<MARQUEE WIDTH="100%" bg color=blue>WELCOME TO MA VIP IQ NU KETERAMPILAN BANYUMAS</MARQUEE>
+<b><font size=2 Face=tahoma color=black>
+<hr><p><b><font face=rocwell size=4 color=blue>
+<hr>
+| <a href=Homenida.html>H o m e</a> 
+| <a href=Visimisinida.html>Visi Misi</a> 
+| <a href=jurusannida.html>Jurusan</a> 
+| <a href=Gurunida.html>Guru</a>
+| <a href=PPDB.html>PPDB</a>
+
+<hr><p><font face=rocwell size=4 color=black>
+<b><font size=2 Face=tahoma color=black>
+<img src="MAVIP.PNG" hspace=10 vspace=5 width=450 height =254 
+			align="left" border=2>
+<img src="Gerbangmavip.JPEG" hspace=10 vspace=5 width=550 height =254 
+			align="center" border=2>
+<img src="Gapuramavip.JPEG" hspace=10 vspace=5 width=450 height =254 
+			align="right" border=2>
+
+<h1><center>VIDEO PROFIL MA VIP IQ NU KETERAMPILAN BANYUMAS & PONDOK PESANNTREN IHYAUL QUR'AN</h1>
+
+<video controls height="400" Width="1500" Align="Center">
+        <source src="./Profil Pondok Pesantren Ihyaul Qur'an.mp4" type="video/mp4">
+    </video>
+<h3>Official MA VIP IQ NU Keterampilan Banyumas</h1>
+<p>&copy; 2024 Hak Cipta Dilindungi. Develop oleh <a href="https://referensi.data.kemdikbud.go.id/pendidikan/npsn/70024952">kemdikbud</a></p>
+</body>
+</html>
+
